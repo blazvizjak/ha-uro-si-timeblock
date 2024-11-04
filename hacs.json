@@ -1,0 +1,7 @@
+{
+    "name": "Slovenian Electrical Grid Time Block Sensor",
+    "country": "SI",
+    "render_readme": true,
+    "domains": ["sensor"],
+    "homeassistant": "2024.10.0"
+}
