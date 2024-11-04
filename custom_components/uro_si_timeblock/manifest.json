@@ -1,0 +1,12 @@
+{
+    "domain": "uro_si_timeblock",
+    "name": "Slovenian Electrical Grid Time Block Sensor",
+    "version": "1.0.0",
+    "documentation": "https://github.com/blazvizjak/ha-uro-si-timeblock",
+    "issue_tracker": "https://github.com/blazvizjak/ha-uro-si-timeblock/issues",
+    "dependencies": [],
+    "codeowners": ["@blazvizjak"],
+    "requirements": ["python-dateutil"],
+    "iot_class": "calculated",
+    "homeassistant": "2024.10.0"
+}
